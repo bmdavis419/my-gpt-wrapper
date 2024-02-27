@@ -15,6 +15,13 @@
       "when": 1709072554124,
       "tag": "0001_far_beyonder",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1709072855822,
+      "tag": "0002_violet_sleeper",
+      "breakpoints": true
     }
   ]
 }
