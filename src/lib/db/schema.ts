@@ -9,3 +9,8 @@ export const demo = pgTable('demo', {
 	id: serial('id').primaryKey(),
 	value: varchar('value', { length: 255 }).notNull()
 });
+
+export const another = pgTable('another', {
+	id: serial('id').primaryKey(),
+	value: varchar('value', { length: 255 }).notNull()
+});
